@@ -1,3 +1,8 @@
+****NAME:KAMALESH S**
+
+
+**REG NO: 212223040083****
+
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,9 +35,11 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+![Screenshot 2024-03-19 174143](https://github.com/kaviya546/Poisson_distribution/assets/150368823/c6470d48-8460-4395-9fb7-83ab68887be0)
 
 # Output : 
+![image](https://github.com/kaviya546/Poisson_distribution/assets/150368823/0886b75f-02f4-449f-a9b2-cd326d8420f3)
+
 
 
 
