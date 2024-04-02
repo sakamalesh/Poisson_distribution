@@ -1,7 +1,7 @@
-****NAME:KAMALESH S**
+## NAME:KAMALESH S**
 
 
-**REG NO: 212223040083****
+## REG NO: 212223040083
 
 # Fitting Poisson  distribution
 # Aim : 
